@@ -1,11 +1,13 @@
 # Academic Progress Hub - Timetable-Management-System 🎓📊
 
 **Final Year Project** | Team Size: 4 Members  
-**Tech Stack:** Python
+**Tech Stack:** Python, Streamlit, SQLite
+
 
 ## 📌 Project Description
 
-Academic Progress Hub is a Python-based application designed to help students efficiently track their academic performance and progress over time. It simplifies the management of subjects, marks, and performance analytics, aiming to reduce academic stress and increase productivity.
+Academic Progress Hub is a Python-based application designed to  a role-based timetable management web app for students, faculty, and admins. Implemented secure login, personalized dashboards, and real-time class updates.
+
 This project is a part of the Final Project submission for Software Tools Laboratory(PCCCS492)
 
 ## Features
